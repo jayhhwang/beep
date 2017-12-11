@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
 	name='jbeep',
 	packages = ['jbeep'],
-	version='1.2',
+	version='1.3',
 	description='A simple alert and timer',
 	url='https://github.com/jayhhwang/jbeep',
 	long_description=open('README.md', 'rt').read(),
