@@ -6,7 +6,7 @@ setup(
 	version='1.2',
 	description='A simple alert and timer',
 	url='https://github.com/jayhhwang/jbeep',
-	long_description=open('README.rst', 'rt').read(),
+	long_description=open('README.md', 'rt').read(),
 	classifiers=[],
 	author='Jay Hwang',
 	author_email='thebluebirdspeaks@gmail.com'
