@@ -8,3 +8,4 @@ Run after installation with:
 
 - **jbeep.end()**  : prints how long your code took to run
 
+Only works on Linux.
