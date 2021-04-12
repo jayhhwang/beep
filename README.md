@@ -1,3 +1,7 @@
+Installation:
+
+    pip install jbeep
+    
 Run after installation with:
 
     from jbeep import jbeep
